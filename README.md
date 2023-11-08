@@ -30,6 +30,9 @@
 
 ## Últimos Projetos
 
+**Acesse meu currículo interativo**
+- [Currículo Interativo](https://curriculo-interativo-git-main-gleisonamorim.vercel.app/)
+
 **Conheça meu site sobre 🌟signos🌟 feito em Html, Css, Java:**
 - [Site Signos e Sorte](https://site-signos.vercel.app/)
 
