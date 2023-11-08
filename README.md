@@ -21,6 +21,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
+![follow](https://img.shields.io/github/followers/gleisonamorim.svg?style=social&label=Follow&maxAge=2592000)
+
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gleisonamorim&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonamorim&theme=chartreuse-dark" alt="Top Languages">
 
