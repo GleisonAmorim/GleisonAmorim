@@ -34,7 +34,7 @@
 - :point_right:[Currículo Interativo](https://curriculo-interativo.vercel.app) :point_left:
 
 **Conheça meu site sobre 🌟signos🌟 feito em Html, Css, Java:**
-- [Site Signos e Sorte](https://site-signos.vercel.app/)
+- 	:aquarius:[Site Signos e Sorte](https://site-signos.vercel.app/):capricorn:
 
 **Projetos de 📈 análise de dados 📈:**
 - 📈[Projeto de análise de vendas com Excel](https://github.com/GleisonAmorim/Projetos-Excel)
