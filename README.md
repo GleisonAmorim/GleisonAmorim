@@ -31,18 +31,19 @@
 ## Últimos Projetos
 
 **Acesse meu currículo interativo:**
-- [Currículo Interativo](https://curriculo-interativo.vercel.app)
+- :point_right:[Currículo Interativo](https://curriculo-interativo.vercel.app) :point_left:
 
 **Conheça meu site sobre 🌟signos🌟 feito em Html, Css, Java:**
 - [Site Signos e Sorte](https://site-signos.vercel.app/)
 
 **Projetos de 📈 análise de dados 📈:**
-- [Projeto de análise de vendas com Excel](https://github.com/GleisonAmorim/Projetos-Excel)
-- [Projeto de análise de vendas com Power BI](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
-- [Projeto de análise de indicadores do setor de TI com Power BI](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
+- 📈[Projeto de análise de vendas com Excel](https://github.com/GleisonAmorim/Projetos-Excel)
+- 📈[Projeto de análise de vendas com Power BI](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
+- 📈[Projeto de análise de indicadores do setor de TI com Power BI](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
 
 **Projetos 🐍 Python 🐍:**
-- [Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Estudos--DevPython--/tree/main/EmpowerData/Aula%201)
-- [Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Estudos--DevPython--/tree/main/EmpowerData/Aula%203)
+- :musical_note:[Faça download das suas músicas em MP3 com esse downloader do youtube](https://github.com/GleisonAmorim/Analise_dados_Python)
+- :robot:[Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
+- 📈[Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Analise_dados_Python)
 
 **Veja todos os meus projetos no[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GleisonAmorim?tab=repositories)**
