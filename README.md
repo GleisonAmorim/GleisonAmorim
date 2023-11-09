@@ -43,7 +43,6 @@
 
 **Projetos 🐍 Python 🐍:**
 - [Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Estudos--DevPython--/tree/main/EmpowerData/Aula%201)
-- [Automação de processos, extraindo dados de ações e as enviando automaticamente por e-mail](https://github.com/GleisonAmorim/Estudos--DevPython--/tree/main/EmpowerData/Aula%202)
 - [Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Estudos--DevPython--/tree/main/EmpowerData/Aula%203)
 
 **Veja todos os meus projetos no[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GleisonAmorim?tab=repositories)**
