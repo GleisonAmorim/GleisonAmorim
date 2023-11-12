@@ -30,19 +30,19 @@
 ## Últimos Projetos
 
 ## **Acesse meu currículo interativo:**
-:small_red_triangle_down: :point_right:[Currículo Interativo](https://curriculo-interativo.vercel.app) :point_left:
+- :point_right:[Currículo Interativo](https://curriculo-interativo.vercel.app) :point_left:
 
 ## **Conheça meu site sobre 🌟signos🌟 feito em Html, Css, Java:**
-:small_red_triangle_down: :aquarius:[Site Signos e Sorte](https://site-signos.vercel.app/):capricorn:
+- :aquarius:[Site Signos e Sorte](https://site-signos.vercel.app/):capricorn:
 
 ## **Projetos de 📈 análise de dados 📈:**
-:small_red_triangle_down: 📈[Projeto de análise de vendas com Excel](https://github.com/GleisonAmorim/Projetos-Excel)
-:small_red_triangle_down: 📈[Projeto de análise de vendas com Power BI](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
-:small_red_triangle_down: 📈[Projeto de análise de indicadores do setor de TI com Power BI](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
+- 📈[Projeto de análise de vendas com Excel](https://github.com/GleisonAmorim/Projetos-Excel)
+- 📈[Projeto de análise de vendas com Power BI](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
+- 📈[Projeto de análise de indicadores do setor de TI com Power BI](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
 
 ## **Projetos 🐍 Python 🐍:**
-:small_red_triangle_down: :musical_note:[Faça download das suas músicas em MP3 com esse downloader de músicas do youtube](https://github.com/GleisonAmorim/Youtube_To_MP3)
-:small_red_triangle_down: :robot:[Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
-:small_red_triangle_down: 📈[Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Analise_dados_Python)
+- :musical_note:[Faça download das suas músicas em MP3 com esse downloader de músicas do youtube](https://github.com/GleisonAmorim/Youtube_To_MP3)
+- :robot:[Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
+- 📈[Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Analise_dados_Python)
 
 ## **Veja todos os meus projetos no [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GleisonAmorim?tab=repositories)**
