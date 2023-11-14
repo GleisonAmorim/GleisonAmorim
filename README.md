@@ -1,4 +1,6 @@
-<img align="center" style="margin-bottom:100px; border-radius: 15px;" width=100% src="https://i.postimg.cc/NF0QTq3v/Banner-de-Twitch-moderno-preto-com-tela-de-espera-2.gif" loop="true" />
+<p align="center">
+<img width="750" height="100%" src="src/assets/profile.gif">
+</p>
 
 
 
