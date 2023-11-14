@@ -1,6 +1,9 @@
-<p align="center">
-<img width="750" height="100%" src="src/assets/profile.gif">
-</p>
+<div align="center" style="font-family: 'Comic Sans MS', cursive; margin-top: 50px; text-align: center;">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=45&pause=500&color=8F0D87&width=800&height=70&lines=Olá!;Eu+sou+o+Gleison+Amorim;Analista+de+dados;Desenvolvedor+Web;Desenvolvedor+Python!" />
+</div>
+
 
 
 
@@ -85,4 +88,5 @@ Veja todos os meus projetos no [![GitHub](https://img.shields.io/badge/GitHub-10
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<div align="center" style="font-family: 'Comic Sans MS', cursive; margin-top: 50px; text-align: center;">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
