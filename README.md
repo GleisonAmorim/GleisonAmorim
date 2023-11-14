@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; border-radius: 15px;" width=100% src="https://i.postimg.cc/NF0QTq3v/Banner-de-Twitch-moderno-preto-com-tela-de-espera-2.gif">
+<img align="center" style="margin-bottom:100px; border-radius: 15px;" width=100% src="https://i.postimg.cc/NF0QTq3v/Banner-de-Twitch-moderno-preto-com-tela-de-espera-2.gif" loop="true" />
 
 
 
