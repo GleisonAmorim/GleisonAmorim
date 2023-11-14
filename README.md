@@ -70,7 +70,7 @@ Projetos 🐍 Python 🐍:
 - :musical_note:[Faça download das suas músicas em MP3 com esse downloader de músicas do youtube](https://github.com/GleisonAmorim/Youtube_To_MP3)
 - :robot:[Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
 - 📈[Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Analise_dados_Python)
- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GleisonAmorim?tab=repositories)
+
 
 ## Contatos:
 
