@@ -1,7 +1,6 @@
 
 
-<img align="center" style="margin-bottom:100px; border-radius: 15px;" width=100% src="https://i.postimg.cc/sgQrPJ1q/Banner-de-Twitch-moderno-preto-com-tela-de-espera-1.gif" />
-
+<img align="center" style="margin-bottom:100px; border-radius: 15px;" width=100% src="https://i.postimg.cc/sgQrPJ1q/Banner-de-Twitch-moderno-preto-com-tela-de-espera-1.gif" autoplay="true" />
 
 
 <p align="center">Eu ❤️ tecnologia <br><br> Seja bem vindo ao meu GitHub, aqui eu compartilho meus prjetos.<br><br>Fique à vontade qualquer dúvida entre em contato comigo</p>&nbsp;
