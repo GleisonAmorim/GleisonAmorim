@@ -1,7 +1,7 @@
 <div align="center" style="font-family: 'Comic Sans MS', cursive; margin-top: 50px; text-align: center;">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Olá!+Eu+sou+o+Gleison;Analista+de+dados;Desenvolvedor+Web;Desenvolvedor+Python;Confira+os+meus+Projetos!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Olá!+Eu+sou+o+Gleison+😁;📈+Analista+de+dados+📊;💻+Desenvolvedor+Web+📱;🔧+Desenvolvedor+Python+🐍;📑+Confira+os+meus+Projetos!+✔️" />
 </div>
 
 <div align="center" style="margin-bottom: 100px;">
