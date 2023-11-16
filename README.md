@@ -67,6 +67,7 @@ Projetos de 📈 análise de dados 📈:
   
 
 Projetos 🐍 Python 🐍:
+- 🤖[ChatBot para escola de idiomas](https://github.com/GleisonAmorim/Chatobot_Escola_de_Idiomas)
 - :musical_note:[Faça download das suas músicas em MP3 com esse downloader de músicas do youtube](https://github.com/GleisonAmorim/Youtube_To_MP3)
 - :robot:[Automação incluindo dados e gerando orçamento automático em PDF](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
 - 📈[Projeto de análise de dados em Python](https://github.com/GleisonAmorim/Analise_dados_Python)
