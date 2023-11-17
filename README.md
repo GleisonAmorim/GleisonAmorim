@@ -107,17 +107,9 @@
 <br><br>
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-<br><br>
+<br>
 #
 ### Projetos Backend
-
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/hvmpCndX/Bordas-nos-Cantos-Diploma-Certificado-5.jpg"/>](https://github.com/GleisonAmorim/Youtube_To_MP3)
-
-**Ferramenta para realizar downloads de MP3 do youtube**
-<br><br>
-
- ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
-
 
 [<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/76GFypzk/Bordas-nos-Cantos-Diploma-Certificado-6.jpg"/>](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
 
@@ -133,6 +125,13 @@
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br><br>
+
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/hvmpCndX/Bordas-nos-Cantos-Diploma-Certificado-5.jpg"/>](https://github.com/GleisonAmorim/Youtube_To_MP3)
+
+**Ferramenta para realizar downloads de MP3 do youtube**
+<br><br>
+
+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
 
 ## Contatos
 
