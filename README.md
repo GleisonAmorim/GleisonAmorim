@@ -20,6 +20,7 @@
 
 ### Dashboards - Análises de dados
 
+
 [<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/FFwB4dP2/Bordas-nos-Cantos-Diploma-Certificado-2.jpg"/>](https://github.com/GleisonAmorim/Projetos-Excel)
 
 **Dashboard de análise de dados de vendas** \
@@ -27,6 +28,14 @@
 
 
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/8ctS8VF4/Bordas-nos-Cantos-Diploma-Certificado-10.jpg"/>](https://github.com/GleisonAmorim/AnaliseVendas)
+
+**Dashboard de análise de dados de vendas** \
+**-Análise de dados para tomada de decisão** 
+
+
+<img align="left" height="29px" width="100px" alt="Warpnet"  src="https://i.postimg.cc/C11gNx5R/bi.png"/> &nbsp;![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 
 [<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/pr42RW9P/Bordas-nos-Cantos-Diploma-Certificado-3.jpg"/>](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
