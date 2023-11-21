@@ -1,5 +1,6 @@
 <div align="center" style="font-family: 'Comic Sans MS', cursive; margin-top: 50px; text-align: center;">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=gleisonamorim&color=ff69b4"><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Olá!+Eu+sou+o+Gleison+😁;📈+Analista+de+dados+📊;💻+Desenvolvedor+Web+📱;🔧+Desenvolvedor+Python+🐍;📑+Confira+os+meus+Projetos!+✔️" />
 </div>
@@ -7,8 +8,10 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=47.20% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gleisonamorim&theme=radical&mode=wekly"/><img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gleisonamorim&show_icons=true&theme=radical&layout=compact&hide_progress=true"/>
   </div>
-
-
+<br>
+  <div>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gleisonamorim&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=8&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
+  </div>
  
  &nbsp;
  &nbsp;
