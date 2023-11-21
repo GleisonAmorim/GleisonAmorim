@@ -10,7 +10,7 @@
   </div>
 <br>
   <div>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gleisonamorim&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=8&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gleisonamorim&amp;theme=radical&amp;row=2&amp;no-bg=true&amp;column=8&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
   </div>
  
  &nbsp;
