@@ -50,7 +50,7 @@
 **-Análise de dados para tomada de decisão** 
 
 
-<img align="left" height="29px" width="100px" alt="Warpnet"  src="https://i.postimg.cc/C11gNx5R/bi.png"/> &nbsp;![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 
 [<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/pr42RW9P/Bordas-nos-Cantos-Diploma-Certificado-3.jpg"/>](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
@@ -59,7 +59,7 @@
 **-Análise de dados para tomada de decisão** 
 
 
-<img align="left" height="29px" width="100px" alt="Warpnet"  src="https://i.postimg.cc/C11gNx5R/bi.png"/> &nbsp;![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 
 [<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/HkVpZPLQ/Bordas-nos-Cantos-Diploma-Certificado-4.jpg"/>](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
@@ -68,7 +68,7 @@
 **-Análise de dados para tomada de decisão no setor de TI** 
 
 
-<img align="left" height="29px" width="100px" alt="Warpnet"  src="https://i.postimg.cc/C11gNx5R/bi.png"/> &nbsp;![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 #
 
