@@ -160,7 +160,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 <br>
+<br>
+<br>
 #
+
+<p align='center'>
+  <img src="https://i.postimg.cc/4xQLZ11Z/Banner-para-Linkedin-Tecnologia-em-Preto-1.jpg" />
+</p>
+
 ### Meu Workspace
 <p align='center'>
   <img src="https://img.shields.io/badge/windows%2011-%2376B900.svg?&style=for-the-badge&logo=windows&logoColor=white" />
