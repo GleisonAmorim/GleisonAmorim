@@ -17,10 +17,10 @@
   <div>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=gleisonamorim&amp;theme=radical&amp;row=2&amp;no-bg=true&amp;column=8&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
   </div>
- 
- &nbsp;
- &nbsp;
+  
+<br>
 
+<br>
 
 
 <details>
@@ -133,6 +133,8 @@
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 </details>
+
+<br>
 
 ## Ferramentas e linguagens que eu conheço
 
