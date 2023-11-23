@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Olá!+Eu+sou+o+Gleison+😁;📈+Analista+de+dados+📊;💻+Desenvolvedor+Web+📱;🔧+Desenvolvedor+Python+🐍;📑+Confira+os+meus+Projetos!+✔️" />
 </div>
 
+<br>
+
+<br>
+
+
 <div  align="center" style="margin-bottom:100px">
 <img width=47.20% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gleisonamorim&theme=radical&mode=wekly"/><img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gleisonamorim&show_icons=true&theme=radical&layout=compact&hide_progress=true"/>
   </div>
