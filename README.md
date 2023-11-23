@@ -18,7 +18,9 @@
 
 
 
-
+<details>
+  <summary>Clique aqui e veja meus últimos projetos</summary>
+  
 ## Últimos projetos
 
 ### Sistemas
@@ -125,7 +127,7 @@
 **-Neste exemplo ele auxilia nas perguntas frequentes de uma Escola de Idiomas** 
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-
+</details>
 
 ## Ferramentas e linguagens que eu conheço
 
