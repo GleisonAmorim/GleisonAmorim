@@ -50,7 +50,7 @@
 
 [<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/02fjbpv1/Bordas-nos-Cantos-Diploma-Certificado-1.jpg"/>](https://github.com/GleisonAmorim/DA-Estudantis)
 
-**Dashboard de análise de dados de habilidades estudantis** \
+**Dashboard de análise de habilidades estudantis** \
 **-Análise de dados para tomada de decisão** 
 
 
