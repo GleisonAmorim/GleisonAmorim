@@ -106,6 +106,14 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/Jz8LP2ML/Bordas-nos-Cantos-Diploma-Certificado-4.png"/>](https://github.com/GleisonAmorim/DashboardFinanceiro)
+
+**Dashboard Financeiro** \
+**-Análise financeira 360º, margem, lucro, impostos, receitas** 
+
+
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
 #
 
 ### Projetos Frontend
