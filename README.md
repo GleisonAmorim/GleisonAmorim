@@ -47,8 +47,6 @@
 
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)  
 
-[<img align="left" height="94px" width="150px" alt="Dashboard RStudio" src="https://i.postimg.cc/02fjbpv1/Bordas-nos-Cantos-Diploma-Certificado-1.jpg"/>](https://github.com/GleisonAmorim/DA-Estudantis)
-
 [<img align="left" height="94px" width="150px" alt="Dashboard Excel" src="https://i.postimg.cc/FFwB4dP2/Bordas-nos-Cantos-Diploma-Certificado-2.jpg"/>](https://github.com/GleisonAmorim/Projetos-Excel)
 
 **Dashboard de análise de dados de vendas** \
