@@ -28,7 +28,7 @@
 ### Sistemas
 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/6qhfsPMs/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://github.com/GleisonAmorim/ERP_M0)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/65TQnmPw/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://github.com/GleisonAmorim/ERP_M0)
 
 **Sistema "m0"** \
 **-Sistema Integrado de Gestão Empresarial - Módulo Cadastro** 
