@@ -39,7 +39,7 @@
 
 ### Análises de dados
 
-[<img align="left" height="94px" width="150px" alt="Análise de Vendas com R" src="https://i.postimg.cc/Y2Ft04jh/Bordas-nos-Cantos-Diploma-Certificado.png"/>](https://github.com/GleisonAmorim/AnaliseDeVendas_R)
+[<img align="left" height="94px" width="150px" alt="Análise de Vendas com R" src="https://i.postimg.cc/65TQnmPw/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://github.com/GleisonAmorim/AnaliseDeVendas_R)
 
 **Análise de dados de vendas com linguagem R** \
 **-Análise de dados utilizando Rstudio** 
