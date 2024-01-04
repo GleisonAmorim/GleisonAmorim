@@ -167,7 +167,7 @@
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br><br>
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/hvmpCndX/Bordas-nos-Cantos-Diploma-Certificado-5.jpg"/>](https://github.com/GleisonAmorim/Youtube_To_MP3)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/02ccHcPV/Bordas-nos-Cantos-Diploma-Certificado-14.jpg"/>](https://github.com/GleisonAmorim/Youtube_To_MP3)
 **Ferramenta para realizar downloads de MP3 do youtube**
 <br><br>
 
