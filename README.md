@@ -153,14 +153,14 @@
 #
 ### Projetos Backend
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/76GFypzk/Bordas-nos-Cantos-Diploma-Certificado-6.jpg"/>](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/cHWd5scy/Bordas-nos-Cantos-Diploma-Certificado-15.jpg"/>](https://github.com/GleisonAmorim/Orcamento_Automatico_Python)
 
 **Ferramenta para realizar automação de tarefa** \
 **-Preencha os campos e faça orçamentos em PDF automatizados** 
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/QdvPJfPY/Bordas-nos-Cantos-Diploma-Certificado-7.jpg"/>](https://github.com/GleisonAmorim/Analise_dados_Python)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/DzLXXwzt/Bordas-nos-Cantos-Diploma-Certificado-16.jpg"/>](https://github.com/GleisonAmorim/Analise_dados_Python)
 
 **Análise de dados com Pyhton** \
 **-Conceitos e técnicas avançadas para explorar e compreender os dados relevantes de uma loja de Açaí** 
@@ -173,7 +173,7 @@
 
  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/rFP6m11j/Bordas-nos-Cantos-Diploma-Certificado-9.jpg"/>](https://replit.com/@gleisonamorim19/BOT-Escola-de-Idiomas)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/0jBYCH13/Bordas-nos-Cantos-Diploma-Certificado-17.jpg"/>](https://replit.com/@gleisonamorim19/BOT-Escola-de-Idiomas)
 
 **Chatbot pré programado** \
 **-Neste exemplo ele auxilia nas perguntas frequentes de uma Escola de Idiomas** 
