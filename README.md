@@ -56,7 +56,7 @@
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/02fjbpv1/Bordas-nos-Cantos-Diploma-Certificado-1.jpg"/>](https://github.com/GleisonAmorim/DA-Estudantis)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/wvn5XmkQ/Bordas-nos-Cantos-Diploma-Certificado-3.jpg"/>](https://github.com/GleisonAmorim/DA-Estudantis)
 
 
 
