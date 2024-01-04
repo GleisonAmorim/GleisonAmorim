@@ -66,7 +66,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/8ctS8VF4/Bordas-nos-Cantos-Diploma-Certificado-10.jpg"/>](https://github.com/GleisonAmorim/AnaliseVendas)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/pdX37wM1/Bordas-nos-Cantos-Diploma-Certificado-4.jpg"/>](https://github.com/GleisonAmorim/AnaliseVendas)
 
 **Dashboard de análise de dados de vendas** \
 **-Análise de dados para tomada de decisão** 
@@ -74,7 +74,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/pr42RW9P/Bordas-nos-Cantos-Diploma-Certificado-3.jpg"/>](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/ncxx2wrN/Bordas-nos-Cantos-Diploma-Certificado-5.jpg"/>](https://github.com/GleisonAmorim/Dash-vendas-PowerBI)
 
 **Dashboard de análise de dados de vendas** \
 **-Análise de dados para tomada de decisão** 
@@ -83,7 +83,7 @@
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/HkVpZPLQ/Bordas-nos-Cantos-Diploma-Certificado-4.jpg"/>](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/Cxf4KJHL/Bordas-nos-Cantos-Diploma-Certificado-6.jpg"/>](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi)
 
 **Dashboard de análise de indicadores de TI** \
 **-Análise de dados para tomada de decisão no setor de TI** 
@@ -92,7 +92,7 @@
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/QMkCd5cm/Bordas-nos-Cantos-Diploma-Certificado-2.png"/>](https://github.com/GleisonAmorim/AnaliseDeVendasMundial)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/pXMzP8XK/Bordas-nos-Cantos-Diploma-Certificado-7.jpg"/>](https://github.com/GleisonAmorim/AnaliseDeVendasMundial)
 
 **Dashboard de análise de vendas mundiais** \
 **-Análise de vendas de produtos com gráficos interativos** 
@@ -100,7 +100,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/TwF92ZVn/Bordas-nos-Cantos-Diploma-Certificado-1.png"/>](https://github.com/GleisonAmorim/DashboardProducao)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/XJN1Hht7/Bordas-nos-Cantos-Diploma-Certificado-8.jpg"/>](https://github.com/GleisonAmorim/DashboardProducao)
 
 **Dashboard de análise de Prdução de cosméticos** \
 **-Análise de produção com gráficos interativos** 
@@ -108,7 +108,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/MT2skWwL/Bordas-nos-Cantos-Diploma-Certificado-3.png"/>](https://github.com/GleisonAmorim/DashboardRh)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/B687fDZd/Bordas-nos-Cantos-Diploma-Certificado-9.jpg"/>](https://github.com/GleisonAmorim/DashboardRh)
 
 **Dashboard de análise de RH** \
 **-Análise de RH - Cargos, salários, horas extras etc...** 
@@ -116,7 +116,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/Jz8LP2ML/Bordas-nos-Cantos-Diploma-Certificado-4.png"/>](https://github.com/GleisonAmorim/DashboardFinanceiro)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/Jn68Pj6v/Bordas-nos-Cantos-Diploma-Certificado-10.jpg"/>](https://github.com/GleisonAmorim/DashboardFinanceiro)
 
 **Dashboard Financeiro** \
 **-Análise financeira 360º, margem, lucro, impostos, receitas** 
@@ -129,21 +129,21 @@
 ### Projetos Frontend
 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/ZKJ8kJ8r/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://curriculo-interativo.vercel.app/)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/7ZfK200b/Bordas-nos-Cantos-Diploma-Certificado-11.jpg"/>](https://curriculo-interativo.vercel.app/)
 
 **Currículo interativo** \
 **-Auxilia na leitura de currículos com vários dados** 
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/ydc7T4Wd/Bordas-nos-Cantos-Diploma-Certificado-1.jpg"/>](https://site-signos.vercel.app/)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/KzZLnhwQ/Bordas-nos-Cantos-Diploma-Certificado-12.jpg"/>](https://site-signos.vercel.app/)
 
 **Site com o tema "Signos"** \
 **-Contém também um jogo de combinações de signos** 
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/CK3RYp2C/Bordas-nos-Cantos-Diploma-Certificado-8.jpg"/>](https://gamorimsolucoes.vercel.app/)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/zGGGSXGy/Bordas-nos-Cantos-Diploma-Certificado-13.jpg"/>](https://gamorimsolucoes.vercel.app/)
 
 **Site de venda de sites personalizados** 
 <br><br>
