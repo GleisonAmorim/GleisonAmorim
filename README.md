@@ -11,7 +11,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=47.20% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gleisonamorim&theme=radical&mode=wekly"/><img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gleisonamorim&show_icons=true&theme=radical&layout=compact&hide_progress=true"/>
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gleisonamorim&show_icons=true&theme=radical&layout=compact&hide_progress=true"/>
   </div>
 <br>
   <div>
