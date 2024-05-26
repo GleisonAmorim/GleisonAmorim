@@ -88,7 +88,7 @@
 &nbsp;
 #
 
-### Análises de dados
+### Análises de dados - Dashboards
 
 [<img align="left" height="94px" width="150px" alt="Análise de Vendas com R" src="https://i.postimg.cc/65TQnmPw/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://github.com/GleisonAmorim/AnaliseDeVendas_R)
 
