@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 &nbsp;
 
-[<img align="left" height="94px" width="150px" alt="" src="https://i.postimg.cc/PrHWJSRr/Design-sem-nome-4.jpg"/>](https://github.com/GleisonAmorim/Petshop-Banhos)
+[<img align="left" height="94px" width="150px" alt="" src="https://i.postimg.cc/QdDkgZ8t/Bordas-nos-Cantos-Diploma-Certificado-5.jpg"/>](https://github.com/GleisonAmorim/Petshop-Banhos)
 
 **Petshop Banhos** \
 **-Aplicação para agendamentos de banhos para Petshop** 
