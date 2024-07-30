@@ -27,7 +27,7 @@
 
 ### Sistemas
 
-[<img align="left" height="94px" width="150px" alt="" src="https://i.postimg.cc/43Zxn1T7/Bordas-nos-Cantos-Diploma-Certificado-8.jpg"/>](https://github.com/GleisonAmorim/Conversor-de-imagens-para-JPEG)
+[<img align="left" height="94px" width="150px" alt="" src="https://i.postimg.cc/4xFLwxNr/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://github.com/GleisonAmorim/Conversor-de-imagens-para-JPEG)
 
 **Conversor de imagens para jpeg em massa** \
 **-Aplicação para converter imagens para jpeg em massa** 
