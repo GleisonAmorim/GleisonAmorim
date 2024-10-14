@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=gleisonamorim&color=ff69b4"><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Hello!+I'm+Gleison+😁;📈+Data+analyst+📊;💻+Web+Developer+📱;🔧+Python+Developer+🐍;📑+Check+out+my+Projects!+✔️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Hello!+I'm+Gleison+😁;📈+Data+analyst+📊;💻+Web+Developer+📱;🔧+FullStack+Developer+🐍;📑+Check+out+my+Projects!+✔️" />
 </div>
 
 <br>
