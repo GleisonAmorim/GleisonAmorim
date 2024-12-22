@@ -1,26 +1,51 @@
-<div align="center" style="font-family: 'Comic Sans MS', cursive; margin-top: 50px; text-align: center;">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
-<img align="right" src="https://komarev.com/ghpvc/?username=gleisonamorim&color=ff69b4"><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&pause=100&color=8F0D87&width=800&height=70&lines=Hello!+I'm+Gleison+😁;📈+Data+analyst+📊;🔧+FullStack+Developer+🐍;📑+Check+out+my+Projects!+✔️" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=gleisonamorim&color=ff69b4"><br>
+  
+  <h1>Olá! Eu sou Gleison</h1>
+  <p>
+    📈 <strong>Analista de Dados</strong> • 🔧 <strong>Desenvolvedor Full Stack</strong> • 🐍 <strong>Especialista em Python</strong>
+  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&pause=100&color=8F0D87&width=600&height=50&lines=Bem-vindo+ao+meu+portfólio+profissional!;Vamos+explorar+minhas+criações." />
 </div>
 
-<br>
+---
 
-<br>
+## Sobre Mim
 
+👨‍💻 Sou desenvolvedor com formação em **Análise e Desenvolvimento de Sistemas**, além de especialização em **Administração de Redes** e **Ciência de Dados**. Tenho experiência em criar sistemas personalizados, automações e soluções eficientes para empresas. 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gleisonamorim&show_icons=true&theme=radical&layout=compact&hide_progress=true"/>
-  </div>
-<br>
-  <div>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gleisonamorim&amp;theme=radical&amp;row=2&amp;no-bg=true&amp;column=8&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-  </div>
-  
-<br>
+### 🎓 **Formação Acadêmica**
+- **Graduação**: Análise e Desenvolvimento de Sistemas - Estácio (2021-2023)
+- **Pós-Graduação**: Administração de Redes - Faculdade Focus (2023-2024)
+- **Pós-Graduação**: Ciência de Dados - Faculdade Focus (2023-2024)
+- **Certificações**: Analista de Dados e Desenvolvedor Python (Ultima School)
 
-<br>
+---
+
+### 📊 **Habilidades Técnicas**
+- **Linguagens de Programação**: Python, SQL, JavaScript, HTML/CSS
+- **Análise de Dados**: Power BI, Excel Avançado (Power Query, Dashboards)
+- **Desenvolvimento Web**: Flask, Bootstrap, SQLite
+- **Ferramentas e Sistemas**: Bling ERP, Git, Microsoft 365
+
+---
+
+📬 **Contato:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleisonamorim)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GleisonAmorim)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleisonamorim@example.com)
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gleisonamorim&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonamorim&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+</div>
+
+<br><br>
 
   
 ## Últimos projetos
