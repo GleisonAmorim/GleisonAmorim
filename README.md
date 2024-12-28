@@ -252,6 +252,14 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/XvkJ9Ycq/Relat-rio-Capa.jpg"/>](https://github.com/GleisonAmorim/AnaliseVendasSupermercado)
+
+**Dashboard Financeiro** \
+**-Análise de lucro, despesa, faturamento, clientes** 
+
+
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
 
 
 #
