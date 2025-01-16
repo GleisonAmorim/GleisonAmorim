@@ -4,7 +4,7 @@
   
   <h1>Olá! Eu sou Gleison</h1>
   <p>
-    📈 <strong>Analista de Dados</strong> • 🔧 <strong>Desenvolvedor Full Stack</strong> • 🐍 <strong>Especialista em Python</strong>
+     <strong>PRofissional de TI</strong> • 📈 <strong>Analista de Dados</strong>
   </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&pause=100&color=8F0D87&width=600&height=50&lines=Bem-vindo+ao+meu+portfólio+profissional!;Vamos+explorar+minhas+criações." />
 </div>
