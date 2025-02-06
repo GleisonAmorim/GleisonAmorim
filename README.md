@@ -159,7 +159,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/pdX37wM1/Bordas-nos-Cantos-Diploma-Certificado-4.jpg"/>](https://github.com/GleisonAmorim/AnaliseVendas)
+[<img align="left" height="94px" width="150px" alt="Warpnet" src="https://i.postimg.cc/8P0NVytC/Relat-rio-Capa-1.jpg"/>](https://github.com/GleisonAmorim/AnaliseVendas)
 
 **Dashboard de análise de dados de vendas** \
 **-Análise de dados para tomada de decisão** 
