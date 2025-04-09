@@ -20,6 +20,7 @@
 - **Pós-Graduação**: Administração de Redes - Faculdade Focus (2023-2024)
 - **Pós-Graduação**: Ciência de Dados - Faculdade Focus (2023-2024)
 - **Certificações**: Analista de Dados e Desenvolvedor Python (Ultima School)
+- **Licenciatura**: Licenciatura em matemática - (Faculdade Ipemig)
 
 ---
 
