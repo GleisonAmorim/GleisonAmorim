@@ -13,7 +13,7 @@
 
 ## Sobre Mim
 
-👨‍💻 Sou desenvolvedor com formação em **Análise e Desenvolvimento de Sistemas**, além de especialização em **Administração de Redes** e **Ciência de Dados**. Tenho experiência em criar sistemas personalizados, automações e soluções eficientes para empresas. 
+👨‍💻 Sou desenvolvedor com formação em **Análise e Desenvolvimento de Sistemas**, além de especialização em **Administração de Redes** e **Ciência de Dados**, tambem sou **Professor**  Tenho experiência em criar sistemas personalizados, treinamentos, criar automações e soluções eficientes para empresas. 
 
 ### 🎓 **Formação Acadêmica**
 - **Graduação**: Análise e Desenvolvimento de Sistemas - Estácio (2021-2023)
