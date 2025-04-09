@@ -4,7 +4,7 @@
   
   <h1>Olá! Eu sou Gleison</h1>
   <p>
-     <strong>Profissional de TI</strong> • <strong>Suporte</strong> • <strong>Dados</strong> • <strong>Excel</strong> • <strong>Power BI</strong> • <strong>SQL</strong>
+     • <strong>Poofessor</strong> • <strong>Profissional de TI</strong> • <strong>Suporte</strong> • <strong>Dados</strong> • <strong>Excel</strong> • <strong>Power BI</strong> • <strong>SQL</strong>
   </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&pause=100&color=8F0D87&width=600&height=50&lines=Bem-vindo+ao+meu+portfólio+profissional!;Vamos+explorar+minhas+criações." />
 </div>
