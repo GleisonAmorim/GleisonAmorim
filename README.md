@@ -52,6 +52,28 @@
 ## Últimos projetos
 
 ### Sistemas
+[<img align="left" height="94px" width="150px" alt="" src="https://i.postimg.cc/90wwPbFF/Relat-rio-Capa.png">](https://github.com/GleisonAmorim/apptreino000001)
+
+**Fitplanner - Apo de Treino Academia** \
+**-App para controle de treino e peso corporal** 
+
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [<img align="left" height="94px" width="150px" alt="" src="https://i.postimg.cc/4xFLwxNr/Bordas-nos-Cantos-Diploma-Certificado.jpg"/>](https://github.com/GleisonAmorim/Conversor-de-imagens-para-JPEG)
 
